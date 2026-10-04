@@ -1,0 +1,6 @@
+{
+  "name": "VoxClip - Voice to Video Studio",
+  "description": "AI-powered voice-to-video creator that turns voice recordings, audio clips, and spoken scripts into engaging videos with voice-relevant scenes, kinetic captions, and cinematic transitions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
